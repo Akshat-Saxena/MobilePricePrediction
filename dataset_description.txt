@@ -1,0 +1,13 @@
+Year   : Year of cars production 
+Engine HP  : Engine Horsepower
+highway MPG  : how far the car is able to travel for every gallon of fuel it uses in the highway.
+city mpg  : how far the car is able to travel for every gallon of fuel it uses around the city. 
+MSRP : manufacturer's suggested retail price
+Engine Fuel Type  : fuel type supported in car 
+Engine Cylinders : number of cylinders
+Transmission Type : gear shift technique used
+Driven Wheels: drive type of car
+Number of Doors: doors in car
+Vehicle Size : size of vehicle        
+Vehicle Style : type of vehicle                         
+* MPG stands for miles per gallon
